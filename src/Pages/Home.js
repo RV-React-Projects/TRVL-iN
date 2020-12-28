@@ -1,6 +1,7 @@
 import React from 'react';
 import '../App.css';
 import Cards from '../Components/Cards';
+import Footer from '../Components/Footer';
 import MainSection from '../Components/MainSection';
 
 export default function Home() {
@@ -8,6 +9,7 @@ export default function Home() {
 		<div>
 			<MainSection />
 			<Cards />
+			<Footer />
 		</div>
 	);
 }

@@ -17,7 +17,7 @@
 }
 
 .services {
-	background-image: url('./Images/amber-fort.jpg');
+	background-image: url('./Images/hills02.jpg');
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
@@ -26,16 +26,16 @@
 }
 
 .products {
-	background-image: url('./Images/brihadishvara.jpg');
+	background-image: url('./Images/India-Gate02.jpg');
 	background-position: center;
-	background-size: fill;
+	background-size: cover;
 	background-repeat: no-repeat;
 	color: #fff;
 	font-size: 100px;
 }
 
 .sign-up {
-	background-image: url('./Images/Hawa-Mahal.jpg');
+	background-image: url('./Images/TajMahal-fort.jpg');
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;

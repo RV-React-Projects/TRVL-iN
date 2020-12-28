@@ -45,7 +45,7 @@ function Navbar() {
 							</Link>
 						</li>
 						<li className="nav-item">
-							<Link to="/product" className="nav-links" onClick={closeMobileView}>
+							<Link to="/products" className="nav-links" onClick={closeMobileView}>
 								Products
 							</Link>
 						</li>
